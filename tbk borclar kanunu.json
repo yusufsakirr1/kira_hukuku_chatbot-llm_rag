@@ -1,0 +1,402 @@
+[
+    {
+        "madde_no": "299",
+        "baslik": "TBK Madde 299",
+        "icerik": "Kira sözleşmesi, kiraya verenin bir şeyin kullanılmasını veya kullanmayla birlikte ondan yararlanılmasını kiracıya bırakmayı, kiracının da buna karşılık kararlaştırılan kira bedelini ödemeyi üstlendiği sözleşmedir. B. Kira süresi"
+    },
+    {
+        "madde_no": "300",
+        "baslik": "TBK Madde 300",
+        "icerik": "Kira sözleşmesi, belirli ve belirli olmayan bir süre için yapılabilir. Kararlaştırılan sürenin geçmesiyle herhangi bir bildirim olmaksızın sona erecek kira sözleşmesi belirli sürelidir; diğer kira sözleşmeleri belirli olmayan bir süre için yapılmış sayılır. C. Kiraya verenin borçları I. Teslim borcu"
+    },
+    {
+        "madde_no": "301",
+        "baslik": "TBK Madde 301",
+        "icerik": "Kiraya veren, kiralananı kararlaştırılan tarihte, sözleşmede amaçlanan kullanıma elverişli bir durumda teslim etmek ve sözleşme süresince bu durumda bulundurmakla yükümlüdür. Bu hüküm, konut ve çatılı işyeri kiralarında kiracı aleyhine değiştirilemez; diğer kira sözleşmelerinde ise, kiracı aleyhine genel işlem koşulları yoluyla bu hükme aykırı düzenleme yapılamaz. II. Vergi ve benzeri yükümlülüklere katlanma borcu"
+    },
+    {
+        "madde_no": "302",
+        "baslik": "TBK Madde 302",
+        "icerik": "Kiralananla ilgili zorunlu sigorta, vergi ve benzeri yükümlülüklere, aksi kararlaştırılmamış veya kanunda öngörülmemiş ise, kiraya veren katlanır. III. Yan giderlere katlanma borcu"
+    },
+    {
+        "madde_no": "303",
+        "baslik": "TBK Madde 303",
+        "icerik": "Kiraya veren, kiralananın kullanımıyla ilgili olmak üzere, kendisi veya üçüncü kişi tarafından yapılan yan giderlere katlanmakla yükümlüdür. IV. Kiraya verenin kiralananın ayıplarından sorumluluğu 1. Kiralananın teslim anındaki ayıplarından sorumluluk"
+    },
+    {
+        "madde_no": "304",
+        "baslik": "TBK Madde 304",
+        "icerik": "Kiralananın önemli ayıplarla teslimi hâlinde kiracı, borçlunun temerrüdüne veya kiraya verenin kiralananın sonradan ayıplı duruma gelmesinden doğan sorumluluğuna ilişkin hükümlere başvurabilir. Kiralananın önemli olmayan ayıplarla tesliminde ise kiracı, kiralananda sonradan ortaya çıkan ayıplardan dolayı kiraya verenin sorumluluğuna ilişkin hükümlere başvurabilir. 2. Kiralananın sonradan ayıplı hâle gelmesinden sorumluluk a. Genel olarak"
+    },
+    {
+        "madde_no": "305",
+        "baslik": "TBK Madde 305",
+        "icerik": "Kiralanan sonradan ayıplı duruma gelirse kiracı, kiraya verenden ayıpların giderilmesini veya kira bedelinden ayıpla orantılı bir indirim yapılmasını ya da zararının giderilmesini isteyebilir. Ancak, zararın giderilmesi istemi diğer seçimlik hakların kullanılmasını önlemez. Önemli ayıp durumunda kiracının sözleşmeyi fesih hakkı saklıdır. b. Ayıbın giderilmesini isteme ve fesih"
+    },
+    {
+        "madde_no": "306",
+        "baslik": "TBK Madde 306",
+        "icerik": "Kiracı, kiraya verenden kiralanandaki ayıbın uygun bir sürede giderilmesini isteyebilir; bu sürede ayıp giderilmezse kiracı, ayıbı kiraya veren hesabına gidertebilir ve bundan doğan alacağını kira bedelinden indirebilir veya kiralananın ayıpsız bir benzeri ile değiştirilmesini isteyebilir. Ayıbın, kiralananın öngörülen kullanıma elverişliliğini ortadan kaldırması ya da önemli ölçüde engellemesi ve verilen sürede giderilmemesi hâlinde kiracı, sözleşmeyi feshedebilir. Kiraya veren, kiralanandaki ayıbı gidermek yerine, uygun bir süre içinde ayıpsız benzeriyle değiştirebilir. Kiraya veren, kiracıya aynı malın ayıpsız bir benzerini hemen vererek ve uğradığı zararın tamamını gidererek, onun seçimlik haklarını kullanmasını önleyebilir. c. Kira bedelinin indirilmesi"
+    },
+    {
+        "madde_no": "307",
+        "baslik": "TBK Madde 307",
+        "icerik": "Kiracı, kiralananın kullanımını etkileyen ayıpların varlığı hâlinde, bu ayıpların kiraya veren tarafından öğrenilmesinden ayıbın giderilmesine kadar geçen süre için, kira bedelinden ayıpla orantılı bir indirim yapılmasını isteyebilir. d. Zararın giderimi"
+    },
+    {
+        "madde_no": "308",
+        "baslik": "TBK Madde 308",
+        "icerik": "Kiraya veren, kusuru olmadığını ispat etmedikçe, kiralananın ayıplı olmasından doğan zararları kiracıya ödemekle yükümlüdür. V. Üçüncü kişinin ileri sürdüğü haklar sebebiyle sorumluluk 1. Zapttan sorumluluk"
+    },
+    {
+        "madde_no": "309",
+        "baslik": "TBK Madde 309",
+        "icerik": "Bir üçüncü kişinin kiralananda kiracının hakkıyla bağdaşmayan bir hak ileri sürmesi durumunda kiraya veren, kiracının bildirimi üzerine davayı üstlenmek ve kiracının uğradığı her türlü zararı gidermekle yükümlüdür. 2. Üçüncü kişinin sözleşmenin kurulmasından sonra üstün hak sahibi olması a. Kiralananın el değiştirmesi"
+    },
+    {
+        "madde_no": "310",
+        "baslik": "TBK Madde 310",
+        "icerik": "Sözleşmenin kurulmasından sonra kiralanan herhangi bir sebeple el değiştirirse, yeni malik kira sözleşmesinin tarafı olur. Kamulaştırmaya ilişkin hükümler saklıdır. b. Üçüncü kişinin sınırlı ayni hak sahibi olması"
+    },
+    {
+        "madde_no": "311",
+        "baslik": "TBK Madde 311",
+        "icerik": "Sözleşmenin kurulmasından sonra üçüncü bir kişi, kiralanan üzerinde kiracının hakkını etkileyen bir ayni hak sahibi olursa, kiralananın el değiştirmesiyle ilgili hükümler kıyas yoluyla uygulanır. c. Tapu siciline şerh"
+    },
+    {
+        "madde_no": "312",
+        "baslik": "TBK Madde 312",
+        "icerik": "Taşınmaz kiralarında, sözleşmeyle kiracının kiracılık hakkının tapu siciline şerhi kararlaştırılabilir. D. Kiracının borçları I. Kira bedelini ödeme borcu 1. Genel olarak"
+    },
+    {
+        "madde_no": "313",
+        "baslik": "TBK Madde 313",
+        "icerik": "Kiracı, kira bedelini ödemekle yükümlüdür. 2. İfa zamanı"
+    },
+    {
+        "madde_no": "314",
+        "baslik": "TBK Madde 314",
+        "icerik": "Kiracı, aksine sözleşme ve yerel âdet olmadıkça, kira bedelini ve gerekiyorsa yan giderleri, her ayın sonunda ve en geç kira süresinin bitiminde ödemekle yükümlüdür. 3. Kiracının temerrüdü"
+    },
+    {
+        "madde_no": "315",
+        "baslik": "TBK Madde 315",
+        "icerik": "Kiracı, kiralananın tesliminden sonra muaccel olan kira bedelini veya yan gideri ödeme borcunu ifa etmezse, kiraya veren kiracıya yazılı olarak bir süre verip, bu sürede de ifa etmeme durumunda, sözleşmeyi feshedeceğini bildirebilir. Kiracıya verilecek süre en az on gün, konut ve çatılı işyeri kiralarında ise en az otuz gündür. Bu süre, kiracıya yazılı bildirimin yapıldığı tarihi izleyen günden itibaren işlemeye başlar. II. Özenle kullanma ve komşulara saygı gösterme borcu"
+    },
+    {
+        "madde_no": "316",
+        "baslik": "TBK Madde 316",
+        "icerik": "Kiracı, kiralananı, sözleşmeye uygun olarak özenle kullanmak ve kiralananın bulunduğu taşınmazda oturan kişiler ile komşulara gerekli saygıyı göstermekle yükümlüdür. Kiracının bu yükümlülüğüne aykırı davranması durumunda kiraya veren, konut ve çatılı işyeri kirasında, en az otuz gün süre vererek, aykırılığın giderilmesi, aksi takdirde sözleşmeyi feshedeceği konusunda yazılı bir ihtarda bulunur. Diğer kira ilişkilerinde ise, kiraya veren, kiracıya önceden bir ihtarda bulunmaksızın, yazılı bir bildirimle sözleşmeyi hemen feshedebilir. Konut ve çatılı işyeri kirasında, kiracının kiralanana kasten ağır bir zarar vermesi, kiracıya verilecek sürenin yararsız olacağının anlaşılması veya kiracının bu yükümlülüğe aykırı davranışının kiraya veren veya aynı taşınmazda oturan kişiler ile komşular bakımından çekilmez olması durumlarında kiraya veren, yazılı bir bildirimle sözleşmeyi hemen feshedebilir. III. Temizlik ve bakım giderlerini ödeme borcu"
+    },
+    {
+        "madde_no": "317",
+        "baslik": "TBK Madde 317",
+        "icerik": "Kiracı, kiralananın olağan kullanımı için gerekli temizlik ve bakım giderlerini ödemekle yükümlüdür. Bu konuda yerel âdete de bakılır. IV. Ayıpları kiraya verene bildirme borcu"
+    },
+    {
+        "madde_no": "318",
+        "baslik": "TBK Madde 318",
+        "icerik": "Kiracı, kendisinin gidermekle yükümlü olmadığı ayıpları kiraya verene gecikmeksizin bildirmekle yükümlüdür; aksi takdirde bundan doğan zarardan sorumludur. V. Ayıpların giderilmesine ve kiralananın gösterilmesine katlanma borcu"
+    },
+    {
+        "madde_no": "319",
+        "baslik": "TBK Madde 319",
+        "icerik": "Kiracı, kiralananın ayıplarının giderilmesine ya da zararların önlenmesine yönelik çalışmalara katlanmakla yükümlüdür. Kiracı, bakım, satış ya da sonraki kiralama için zorunlu olduğu ölçüde, kiraya verenin ve onun belirlediği üçüncü kişinin kiralananı gezip görmesine izin vermekle yükümlüdür. Kiraya veren, çalışmaları ve kiralananın gezilip görüleceğini uygun bir süre önce kiracıya bildirmek ve bunların yapıldığı sırada kiracının yararlarını göz önünde tutmak zorundadır. Kiracının kira bedelinin indirilmesine ve zararının giderilmesine ilişkin hakları saklıdır. E. Özel durumlar I. Kiralananda yenilik ve değişiklik yapılması 1. Kiraya veren tarafından"
+    },
+    {
+        "madde_no": "320",
+        "baslik": "TBK Madde 320",
+        "icerik": "Kiraya veren, kiralananda, kira sözleşmesinin feshini gerektirmeyen ve kiracıdan katlanması beklenebilecek olan yenilik ve değişiklikler yapabilir. Bu yenilik ve değişikliklerin yapılması sırasında kiraya veren, kiracının menfaatlerini gözetmekle yükümlüdür. Kiracının, kira bedelinin indirilmesine ve zararının giderilmesine ilişkin hakları saklıdır. 2. Kiracı tarafından"
+    },
+    {
+        "madde_no": "321",
+        "baslik": "TBK Madde 321",
+        "icerik": "Kiracı, kiraya verenin yazılı rızasıyla kiralananda yenilik ve değişiklikler yapabilir. Yenilik ve değişikliklere rıza gösteren kiraya veren, yazılı olarak kararlaştırılmış olmadıkça, kiralananın eski durumuyla geri verilmesini isteyemez. Kiracı, aksine yazılı bir anlaşma yoksa, kiraya verenin rızasıyla yaptığı yenilik ve değişiklikler sebebiyle kiralananda ortaya çıkan değer artışının karşılığını isteyemez. II. Alt kira ve kullanım hakkının devri"
+    },
+    {
+        "madde_no": "322",
+        "baslik": "TBK Madde 322",
+        "icerik": "Kiracı, kiraya verene zarar verecek bir değişikliğe yol açmamak koşuluyla, kiralananı tamamen veya kısmen başkasına kiraya verebileceği gibi, kullanım hakkını da başkasına devredebilir. Kiracı, konut ve çatılı işyeri kiralarında, kiraya verenin yazılı rızası olmadıkça, kiralananı başkasına kiralayamayacağı gibi, kullanım hakkını da devredemez. Alt kiracı, kiralananı kiracıya tanınandan başka biçimde kullandığı takdirde kiracı, kiraya verene karşı sorumlu olur. Bu durumda kiraya veren, kiracısına karşı sahip olduğu hakları alt kiracıya veya kullanım hakkını devralana karşı da kullanabilir. III. Kira ilişkisinin devri 2"
+    },
+    {
+        "madde_no": "323",
+        "baslik": "TBK Madde 323",
+        "icerik": "Kiracı, kiraya verenin yazılı rızasını almadıkça, kira ilişkisini başkasına devredemez. Kiraya veren, işyeri kiralarında haklı sebep olmadıkça bu rızayı vermekten kaçınamaz. 2 Bu madde 1/7/2012 tarihinden itibaren 8 yıl süreyle uygulanmaz. Bu halde, kira sözleşmelerinde bu maddelerde belirtilmiş olan konulara ilişkin olarak sözleşme serbestisi gereği kira sözleşmesi hükümleri tatbik olunur. Kira sözleşmelerinde hüküm olmayan hallerde mülga Borçlar Kanunu hükümleri uygulanır. Kiraya verenin yazılı rızasıyla kira ilişkisi kendisine devredilen kişi, kira sözleşmesinde kiracının yerine geçer ve devreden kiracı, kiraya verene karşı borçlarından kurtulur. İşyeri kiralarında devreden kiracı, kira sözleşmesinin bitimine kadar ve en fazla iki yıl süreyle devralanla birlikte müteselsilen sorumlu olur. IV. Kiralananın kullanılmaması 1. Genel olarak"
+    },
+    {
+        "madde_no": "324",
+        "baslik": "TBK Madde 324",
+        "icerik": "Kullanıma elverişli bulundurulduğu sürece kiralanan, kiracının kendisinden kaynaklanan bir sebeple kullanılmasa veya sınırlı olarak kullanılsa bile kiracı, kira bedelini ödemekle yükümlüdür. Bu durumda, kiraya verenin yapmaktan kurtulduğu giderler kira bedelinden indirilir. 2. Kiralananın sözleşmenin bitiminden önce geri verilmesi2"
+    },
+    {
+        "madde_no": "325",
+        "baslik": "TBK Madde 325",
+        "icerik": "Kiracı, sözleşme süresine veya fesih dönemine uymaksızın kiralananı geri verdiği takdirde, kira sözleşmesinden doğan borçları, kiralananın benzer koşullarla kiraya verilebileceği makul bir süre için devam eder. Kiracının bu sürenin geçmesinden önce kiraya verenden kabul etmesi beklenebilecek, ödeme gücüne sahip ve kira ilişkisini devralmaya hazır yeni bir kiracı bulması hâlinde, kiracının kira sözleşmesinden doğan borçları sona erer. Kiraya veren, yapmaktan kurtulduğu giderler ile kiralananı başka biçimde kullanmakla elde ettiği veya elde etmekten kasten kaçındığı yararları kira bedelinden indirmekle yükümlüdür. V. Takastan feragat yasağı"
+    },
+    {
+        "madde_no": "326",
+        "baslik": "TBK Madde 326",
+        "icerik": "Kiracı ve kiraya veren, kira sözleşmesinden doğan alacaklarını takas etme hakkından önceden feragat edemezler. F. Sözleşmenin sona ermesi I. Sürenin geçmesi"
+    },
+    {
+        "madde_no": "327",
+        "baslik": "TBK Madde 327",
+        "icerik": "Açık veya örtülü biçimde bir süre belirlenmişse, kira sözleşmesi bu sürenin sonunda kendiliğinden sona erer. Taraflar, bu durumda, açık bir anlaşma olmaksızın kira ilişkisini sürdürürlerse, kira sözleşmesi belirsiz süreli sözleşmeye dönüşür. II. Belirsiz süreli kira sözleşmelerinde fesih bildirimi 1. Genel olarak"
+    },
+    {
+        "madde_no": "328",
+        "baslik": "TBK Madde 328",
+        "icerik": "Belirsiz süreli kira sözleşmelerinde taraflardan her biri, daha uzun bir fesih bildirim süresi veya başka bir fesih dönemi kararlaştırılmış olmadıkça, yasal fesih dönemlerine ve fesih bildirim sürelerine uyarak sözleşmeyi feshedebilir. Fesih dönemlerinin hesabında, kira sözleşmesinin başlangıç tarihi esas alınır. Sözleşmede veya kanunda belirtilen fesih dönemine veya bildirim süresine uyulmamışsa, bildirim bir sonraki fesih dönemi için geçerli olur. 2. Taşınmaz ve taşınır yapı kiralarında"
+    },
+    {
+        "madde_no": "329",
+        "baslik": "TBK Madde 329",
+        "icerik": "Taraflardan her biri, bir taşınmaza veya taşınır bir yapıya ilişkin kira sözleşmesini yerel âdette belirlenen kira döneminin sonu için veya böyle bir âdetin bulunmaması durumunda, altı aylık kira döneminin sonu için, üç aylık fesih bildirim süresine uyarak feshedebilir. 3. Taşınır kiralarında"
+    },
+    {
+        "madde_no": "330",
+        "baslik": "TBK Madde 330",
+        "icerik": "Taraflardan her biri, bir taşınıra ilişkin kira sözleşmesini üç gün önceden yapılacak fesih bildirim süresine uyarak her zaman feshedebilir. Kiraya verenin meslekî faaliyeti gereği kiraya verdiği ve kiracının da özel kullanımına yarayan taşınır bir malın kiracısı, kira sözleşmesini, üç aylık kira dönemi sonu için en az bir ay önceden yapacağı bir fesih bildirimiyle sona erdirebilir. Bu durumda kiraya verenin, zararının giderilmesini isteme hakkı yoktur. III. Olağanüstü fesih 1. Önemli sebepler2"
+    },
+    {
+        "madde_no": "331",
+        "baslik": "TBK Madde 331",
+        "icerik": "Taraflardan her biri, kira ilişkisinin devamını kendisi için çekilmez hâle getiren önemli sebeplerin varlığı durumunda, sözleşmeyi yasal fesih bildirim süresine uyarak her zaman feshedebilir. Hâkim, durum ve koşulları göz önünde tutarak, olağanüstü fesih bildiriminin parasal sonuçlarını karara bağlar. 2. Kiracının iflası"
+    },
+    {
+        "madde_no": "332",
+        "baslik": "TBK Madde 332",
+        "icerik": "Kiracı, kiralananın tesliminden sonra iflas ederse kiraya veren, işleyecek kira bedelleri için güvence verilmesini isteyebilir. Kiraya veren, güvence verilmesi için kiracı ve iflas masasına yazılı olarak uygun bir süre verir. Bu süre içinde kendisine güvence verilmezse kiraya veren, sözleşmeyi herhangi bir fesih bildirim süresine uymaksızın hemen feshedebilir. 3. Kiracının ölümü"
+    },
+    {
+        "madde_no": "333",
+        "baslik": "TBK Madde 333",
+        "icerik": "Kiracının ölmesi durumunda mirasçıları, yasal fesih bildirim süresine uyarak en yakın fesih dönemi sonu için sözleşmeyi feshedebilirler. G. Kiralananın geri verilmesi I. Genel olarak"
+    },
+    {
+        "madde_no": "334",
+        "baslik": "TBK Madde 334",
+        "icerik": "Kiracı kiralananı ne durumda teslim almışsa, kira sözleşmesinin bitiminde o durumda geri vermekle yükümlüdür. Ancak, kiracı sözleşmeye uygun kullanma dolayısıyla kiralananda meydana gelen eskimelerden ve bozulmalardan sorumlu değildir. Kiracının, sözleşmenin sona ermesi hâlinde, sözleşmeye aykırı kullanmadan doğacak zararları giderme dışında, başkaca bir tazminat ödeyeceğini önceden taahhüt etmesine ilişkin anlaşmalar geçersizdir. II. Kiralananın gözden geçirilmesi ve kiracıya bildirme"
+    },
+    {
+        "madde_no": "335",
+        "baslik": "TBK Madde 335",
+        "icerik": "Kiraya veren, geri verme sırasında kiralananın durumunu gözden geçirmek ve kiracının sorumlu olduğu eksiklikleri ve ayıpları ona hemen yazılı olarak bildirmek zorundadır. Bu bildirim yapılmazsa, kiracı her türlü sorumluluktan kurtulur. Ancak, teslim alma sırasında olağan incelemeyle belirlenemeyecek olan eksikliklerin ve ayıpların varlığı hâlinde, kiracının sorumluluğu devam eder. Kiraya veren, bu tür eksiklikleri ve ayıpları belirlediğinde, kiracıya hemen yazılı olarak bildirmek zorundadır. H. Kiraya verenin hapis hakkı I. Konusu"
+    },
+    {
+        "madde_no": "336",
+        "baslik": "TBK Madde 336",
+        "icerik": "Taşınmaz kiralarında kiraya veren, işlemiş bir yıllık ve işlemekte olan altı aylık kira bedelinin güvencesi olmak üzere, kiralananda bulunan ve kiralananın döşenmesine veya kullanılmasına yarayan taşınırlar üzerinde hapis hakkına sahiptir. Kiraya verenin hapis hakkı, alt kiracının asıl kiracıya olan kira borcunu aşmamak üzere, alt kiracının kiralanana getirdiği aynı nitelikteki taşınırları da kapsar. Hapis hakkı, kiracının haczedilemeyen malları üzerinde kullanılamaz. II. Üçüncü kişilere ait olan eşya"
+    },
+    {
+        "madde_no": "337",
+        "baslik": "TBK Madde 337",
+        "icerik": "Üçüncü kişilerin, kiraya verenin kiracıya ait olmadığını bildiği veya bilmesi gerektiği eşya ile çalınmış, kaybolmuş veya başka bir biçimde malikinin elinden iradesi dışında çıkmış eşya üzerindeki hakları, kiraya verenin hapis hakkından önce gelir. Kiraya veren, kiracı tarafından kiralanana getirilmiş olan taşınırların kiracının mülkiyetinde olmadığını kira sözleşmesi devam ederken öğrendiği hâlde, sözleşmeyi en yakın fesih döneminin sonu için feshetmezse, bu eşya üzerindeki hapis hakkını kaybeder. III. Hakkın kullanılması"
+    },
+    {
+        "madde_no": "338",
+        "baslik": "TBK Madde 338",
+        "icerik": "Kiracı, taşınmak veya kiralananda bulunan taşınırları başka bir yere taşımak istediği takdirde, kiraya veren, alacağını güvence altına almasını sağlayacak miktardaki taşınırı, sulh hâkiminin veya icra müdürünün kararıyla alıkoyabilir. Alıkoyma kararının konusu olan eşya, gizlice veya zorla götürülürse, götürülmelerinden başlayarak on gün içinde kolluk gücünün yardımıyla kiralanana geri getirilir. İKİNCİ AYIRIM Konut ve Çatılı İşyeri Kiraları A. Uygulama alanı"
+    },
+    {
+        "madde_no": "339",
+        "baslik": "TBK Madde 339",
+        "icerik": "Konut ve çatılı işyeri kiralarına ilişkin hükümler, bunlarla birlikte kullanımı kiracıya bırakılan eşya hakkında da uygulanır. Ancak bu hükümler, niteliği gereği geçici kullanıma özgülenmiş taşınmazların altı ay ve daha kısa süreyle kiralanmalarında uygulanmaz. Kamu kurum ve kuruluşlarının, hangi usul ve esaslar içinde olursa olsun yaptıkları bütün kira sözleşmelerine de bu hükümler uygulanır. B. Bağlantılı sözleşme2"
+    },
+    {
+        "madde_no": "340",
+        "baslik": "TBK Madde 340",
+        "icerik": "Konut ve çatılı işyeri kiralarında sözleşmenin kurulması ya da sürdürülmesi, kiracının yararı olmaksızın, kiralananın kullanımıyla doğrudan ilişkisi olmayan bir borç altına girmesine bağlanmışsa, kirayla bağlantılı sözleşme geçersizdir. C. Kullanma giderleri"
+    },
+    {
+        "madde_no": "341",
+        "baslik": "TBK Madde 341",
+        "icerik": "Kiracı, konut ve çatılı işyeri kiralarında, sözleşmede aksi öngörülmemişse veya aksine yerel âdet yoksa, ısıtma, aydınlatma ve su gibi kullanma giderlerine katlanmakla yükümlüdür. Giderlere katlanan taraf, bu giderleri ispat edici belgelerin birer örneğini, istem üzerine diğer tarafa vermek zorundadır. D. Kiracının güvence vermesi2"
+    },
+    {
+        "madde_no": "342",
+        "baslik": "TBK Madde 342",
+        "icerik": "Konut ve çatılı işyeri kiralarında sözleşmeyle kiracıya güvence verme borcu getirilmişse, bu güvence üç aylık kira bedelini aşamaz. Güvence olarak para veya kıymetli evrak verilmesi kararlaştırılmışsa kiracı, kiraya verenin onayı olmaksızın çekilmemek üzere, parayı vadeli bir tasarruf hesabına yatırır, kıymetli evrakı ise bir bankaya depo eder. Banka, güvenceleri ancak iki tarafın rızasıyla veya icra takibinin kesinleşmesiyle ya da kesinleşmiş mahkeme kararına dayanarak geri verebilir. Kiraya veren, kira sözleşmesinin sona ermesini izleyen üç ay içinde kiracıya karşı kira sözleşmesiyle ilgili bir dava açtığını veya icra ya da iflas yoluyla takibe giriştiğini bankaya yazılı olarak bildirmemişse banka, kiracının istemi üzerine güvenceyi geri vermekle yükümlüdür. E. Kira bedeli I. Genel olarak2"
+    },
+    {
+        "madde_no": "343",
+        "baslik": "TBK Madde 343",
+        "icerik": "Kira sözleşmelerinde kira bedelinin belirlenmesi dışında, kiracı aleyhine değişiklik yapılamaz. II. Belirlenmesi234"
+    },
+    {
+        "madde_no": "344",
+        "baslik": "TBK Madde 344",
+        "icerik": "Tarafların yenilenen kira dönemlerinde uygulanacak kira bedeline ilişkin anlaşmaları, bir önceki kira yılında tüketici fiyat endeksindeki oniki aylık ortalamalara göre değişim oranını geçmemek koşuluyla geçerlidir. Bu kural, bir yıldan daha uzun süreli kira sözleşmelerinde de uygulanır. Taraflarca bu konuda bir anlaşma yapılmamışsa, kira bedeli, bir önceki kira yılının 3 17/1/2019 tarihli ve 7161 sayılı Kanunun 56 ncı maddesiyle, bu maddenin birinci ve ikinci fıkrasında yer alan “üretici fiyat endeksindeki artış” ibareleri “tüketici fiyat endeksindeki oniki aylık ortalamalara göre değişim” şeklinde değiştirilmiştir. 4 17/1/2019 tarihli ve 7161 sayılı Kanunun 56 ncı maddesiyle , bu maddenin üçüncü fıkrasında yer alan “üretici fiyat endeksindeki artış” ibaresi “tüketici fiyat endeksindeki oniki aylık ortalamalara göre değişim” şeklinde değiştirilmiş ve maddenin dördüncü fıkrasına “kararlaştırılmışsa,” ibaresinden sonra gelmek üzere “20/2/1930 tarihli ve 1567 sayılı Türk Parasının Kıymetini Koruma Hakkında Kanun hükümleri saklı kalmak şartıyla,” ibaresi eklenmiştir. tüketici fiyat endeksindeki oniki aylık ortalamalara göre değişim oranını geçmemek koşuluyla hâkim tarafından, kiralananın durumu göz önüne alınarak hakkaniyete göre belirlenir. Taraflarca bu konuda bir anlaşma yapılıp yapılmadığına bakılmaksızın, beş yıldan uzun süreli veya beş yıldan sonra yenilenen kira sözleşmelerinde ve bundan sonraki her beş yılın sonunda, yeni kira yılında uygulanacak kira bedeli, hâkim tarafından tüketici fiyat endeksindeki oniki aylık ortalamalara göre değişim oranı, kiralananın durumu ve emsal kira bedelleri göz önünde tutularak hakkaniyete uygun biçimde belirlenir. Her beş yıldan sonraki kira yılında bu biçimde belirlenen kira bedeli, önceki fıkralarda yer alan ilkelere göre değiştirilebilir. Sözleşmede kira bedeli yabancı para olarak kararlaştırılmışsa 20/2/1930 tarihli ve 1567 sayılı Türk Parasının Kıymetini Koruma Hakkında Kanun hükümleri saklı kalmak şartıyla, beş yıl geçmedikçe kira bedelinde değişiklik yapılamaz. Ancak, bu Kanunun, “Aşırı ifa güçlüğü” başlıklı 138 inci maddesi hükmü saklıdır. Beş yıl geçtikten sonra kira bedelinin belirlenmesinde, yabancı paranın değerindeki değişiklikler de göz önünde tutularak üçüncü fıkra hükmü uygulanır. III. Dava açma süresi ve kararın etkisi"
+    },
+    {
+        "madde_no": "345",
+        "baslik": "TBK Madde 345",
+        "icerik": "Kira bedelinin belirlenmesine ilişkin dava her zaman açılabilir. Ancak, bu dava, yeni dönemin başlangıcından en geç otuz gün önceki bir tarihte açıldığı ya da kiraya veren tarafından bu süre içinde kira bedelinin artırılacağına ilişkin olarak kiracıya yazılı bildirimde bulunulmuş olması koşuluyla, izleyen yeni kira dönemi sonuna kadar açıldığı takdirde, mahkemece belirlenecek kira bedeli, bu yeni kira döneminin başlangıcından itibaren kiracıyı bağlar. Sözleşmede yeni kira döneminde kira bedelinin artırılacağına ilişkin bir hüküm varsa, yeni kira döneminin sonuna kadar açılacak davada mahkemece belirlenecek kira bedeli de, bu yeni dönemin başlangıcından itibaren geçerli olur. IV. Kiracı aleyhine düzenleme yasağı2"
+    },
+    {
+        "madde_no": "346",
+        "baslik": "TBK Madde 346",
+        "icerik": "Kiracıya, kira bedeli ve yan giderler dışında başka bir ödeme yükümlülüğü getirilemez. Özellikle, kira bedelinin zamanında ödenmemesi hâlinde ceza koşulu ödeneceğine veya sonraki kira bedellerinin muaccel olacağına ilişkin anlaşmalar geçersizdir. F. Konut ve çatılı işyeri kiralarında sözleşmenin sona ermesi I. Bildirim yoluyla 1. Genel olarak"
+    },
+    {
+        "madde_no": "347",
+        "baslik": "TBK Madde 347",
+        "icerik": "Konut ve çatılı işyeri kiralarında kiracı, belirli süreli sözleşmelerin süresinin bitiminden en az onbeş gün önce bildirimde bulunmadıkça, sözleşme aynı koşullarla bir yıl için uzatılmış sayılır. Kiraya veren, sözleşme süresinin bitimine dayanarak sözleşmeyi sona erdiremez. Ancak, on yıllık uzama süresi sonunda kiraya veren, bu süreyi izleyen her uzama yılının bitiminden en az üç ay önce bildirimde bulunmak koşuluyla, herhangi bir sebep göstermeksizin sözleşmeye son verebilir. Belirsiz süreli kira sözleşmelerinde, kiracı her zaman, kiraya veren ise kiranın başlangıcından on yıl geçtikten sonra, genel hükümlere göre fesih bildirimiyle sözleşmeyi sona erdirebilirler. Genel hükümlere göre fesih hakkının kullanılabileceği durumlarda, kiraya veren veya kiracı sözleşmeyi sona erdirebilir. 2. Bildirimin geçerliliği a. Şekil"
+    },
+    {
+        "madde_no": "348",
+        "baslik": "TBK Madde 348",
+        "icerik": "Konut ve çatılı işyeri kiralarında fesih bildiriminin geçerliliği, yazılı şekilde yapılmasına bağlıdır. b. Aile konutu"
+    },
+    {
+        "madde_no": "349",
+        "baslik": "TBK Madde 349",
+        "icerik": "Aile konutu olarak kullanılmak üzere kiralanan taşınmazlarda kiracı, eşinin açık rızası olmadıkça kira sözleşmesini feshedemez. Bu rızanın alınması mümkün olmazsa veya eş haklı sebep olmaksızın rızasını vermekten kaçınırsa kiracı, hâkimden bu konuda bir karar vermesini isteyebilir. Kiracı olmayan eşin, kiraya verene bildirimde bulunarak kira sözleşmesinin tarafı sıfatını kazanması hâlinde kiraya veren, fesih bildirimi ile fesih ihtarına bağlı bir ödeme süresini kiracıya ve eşine ayrı ayrı bildirmek zorundadır. II. Dava yoluyla 1. Kiraya verenden kaynaklanan sebeplerle a. Gereksinim, yeniden inşa ve imar"
+    },
+    {
+        "madde_no": "350",
+        "baslik": "TBK Madde 350",
+        "icerik": "Kiraya veren, kira sözleşmesini; 1. Kiralananı kendisi, eşi, altsoyu, üstsoyu veya kanun gereği bakmakla yükümlü olduğu diğer kişiler için konut ya da işyeri gereksinimi sebebiyle kullanma zorunluluğu varsa, 2. Kiralananın yeniden inşası veya imarı amacıyla esaslı onarımı, genişletilmesi ya da değiştirilmesi gerekli ve bu işler sırasında kiralananın kullanımı imkânsız ise, belirli süreli sözleşmelerde sürenin sonunda, belirsiz süreli sözleşmelerde kiraya ilişkin genel hükümlere göre fesih dönemine ve fesih bildirimi için öngörülen sürelere uyularak belirlenecek tarihten başlayarak bir ay içinde açacağı dava ile sona erdirebilir. b. Yeni malikin gereksinimi"
+    },
+    {
+        "madde_no": "351",
+        "baslik": "TBK Madde 351",
+        "icerik": "Kiralananı sonradan edinen kişi, onu kendisi, eşi, altsoyu, üstsoyu veya kanun gereği bakmakla yükümlü olduğu diğer kişiler için konut veya işyeri gereksinimi sebebiyle kullanma zorunluluğu varsa, edinme tarihinden başlayarak bir ay içinde durumu kiracıya yazılı olarak bildirmek koşuluyla, kira sözleşmesini altı ay sonra açacağı bir davayla sona erdirebilir. Kiralananı sonradan edinen kişi, dilerse gereksinim sebebiyle sözleşmeyi sona erdirme hakkını, sözleşme süresinin bitiminden başlayarak bir ay içinde açacağı dava yoluyla da kullanabilir. 2. Kiracıdan kaynaklanan sebeplerle"
+    },
+    {
+        "madde_no": "352",
+        "baslik": "TBK Madde 352",
+        "icerik": "Kiracı, kiralananın teslim edilmesinden sonra, kiraya verene karşı, kiralananı belli bir tarihte boşaltmayı yazılı olarak üstlendiği hâlde boşaltmamışsa kiraya veren, kira sözleşmesini bu tarihten başlayarak bir ay içinde icraya başvurmak veya dava açmak suretiyle sona erdirebilir. Kiracı, bir yıldan kısa süreli kira sözleşmelerinde kira süresi içinde; bir yıl ve daha uzun süreli kira sözleşmelerinde ise bir kira yılı veya bir kira yılını aşan süre içinde kira bedelini ödemediği için kendisine yazılı olarak iki haklı ihtarda bulunulmasına sebep olmuşsa kiraya veren, kira süresinin ve bir yıldan uzun süreli kiralarda ihtarların yapıldığı kira yılının bitiminden başlayarak bir ay içinde, dava yoluyla kira sözleşmesini sona erdirebilir. Kiracının veya birlikte yaşadığı eşinin aynı ilçe veya belde belediye sınırları içinde oturmaya elverişli bir konutu bulunması durumunda kiraya veren, kira sözleşmesinin kurulması sırasında bunu bilmiyorsa, sözleşmenin bitiminden başlayarak bir ay içinde sözleşmeyi dava yoluyla sona erdirebilir. 3. Dava süresinin uzaması"
+    },
+    {
+        "madde_no": "353",
+        "baslik": "TBK Madde 353",
+        "icerik": "Kiraya veren, en geç davanın açılması için öngörülen sürede dava açacağını kiracıya yazılı olarak bildirmişse, dava açma süresi bir kira yılı için uzamış sayılır. 4. Dava sebeplerinin sınırlılığı2"
+    },
+    {
+        "madde_no": "354",
+        "baslik": "TBK Madde 354",
+        "icerik": "Dava yoluyla kira sözleşmesinin sona erdirilmesine ilişkin hükümler, kiracı aleyhine değiştirilemez. 5. Yeniden kiralama yasağı"
+    },
+    {
+        "madde_no": "355",
+        "baslik": "TBK Madde 355",
+        "icerik": "Kiraya veren, gereksinim amacıyla kiralananın boşaltılmasını sağladığında, haklı sebep olmaksızın, kiralananı üç yıl geçmedikçe eski kiracısından başkasına kiralayamaz. Yeniden inşa ve imar amacıyla boşaltılması sağlanan taşınmazlar, eski hâli ile, haklı sebep olmaksızın üç yıl geçmedikçe başkasına kiralanamaz. Eski kiracının, yeniden inşa ve imarı gerçekleştirilen taşınmazları, yeni durumu ve yeni kira bedeli ile kiralama konusunda öncelik hakkı vardır. Bu hakkın, kiraya verenin yapacağı yazılı bildirimi izleyen bir ay içinde kullanılması gerekir; bu öncelik hakkı sona erdirilmedikçe, taşınmaz üç yıl geçmeden başkasına kiralanamaz. Kiraya veren, bu hükümlere aykırı davrandığı takdirde, eski kiracısına son kira yılında ödenmiş olan bir yıllık kira bedelinden az olmamak üzere tazminat ödemekle yükümlüdür. 6. Kiracının ölümünde sözleşmenin sürdürülmesi"
+    },
+    {
+        "madde_no": "356",
+        "baslik": "TBK Madde 356",
+        "icerik": "Ölen kiracının ortakları veya bu ortakların aynı meslek ve sanatı yürüten mirasçıları ve ölen kiracı ile birlikte aynı konutta oturanlar, sözleşmeye ve kanun hükümlerine uydukları sürece, taraf olarak kira sözleşmesini sürdürebilirler. ÜÇÜNCÜ AYIRIM Ürün Kirası A. Tanımı"
+    },
+    {
+        "madde_no": "357",
+        "baslik": "TBK Madde 357",
+        "icerik": "Ürün kirası kiraya verenin, kiracıya, ürün veren bir şeyin veya hakkın kullanılmasını ve ürünlerin devşirilmesini bedel karşılığında bırakmayı üstlendiği sözleşmedir. Ürüne katılmalı kira, kira bedelinin devşirilecek ürünün belli bir oranı olarak kararlaştırıldığı ürün kirasıdır. Bu oran sözleşmeyle kararlaştırılmamışsa, yerel âdete göre belirlenir. B. Genel hükümlerin uygulanması"
+    },
+    {
+        "madde_no": "358",
+        "baslik": "TBK Madde 358",
+        "icerik": "Bu ayırımda ürün kirasına ilişkin özel hüküm bulunmadıkça, kira sözleşmesine ilişkin genel hükümler uygulanır. C. Tutanak düzenleme"
+    },
+    {
+        "madde_no": "359",
+        "baslik": "TBK Madde 359",
+        "icerik": "Kira sözleşmesi, araç ve gereçleri, hayvanları, devredilen eşyayı veya stoklanmış malları da içeriyorsa taraflar, bunların değerlerini birlikte takdir ederek iki nüsha düzenleyecekleri tutanağa geçirip imzalayarak, birbirlerine vermekle yükümlüdürler. D. Kiraya verenin borçları I. Teslim borcu"
+    },
+    {
+        "madde_no": "360",
+        "baslik": "TBK Madde 360",
+        "icerik": "Kiraya veren, birlikte kiralanmış taşınır şeyler varsa bunlar da içinde olmak üzere, kiralananı, sözleşmenin amacına uygun biçimde kullanılmaya ve işletilmeye elverişli bir durumda kiracıya teslim etmek ve sözleşme süresince bu durumda bulundurmakla yükümlüdür. II. Esaslı onarımlar"
+    },
+    {
+        "madde_no": "361",
+        "baslik": "TBK Madde 361",
+        "icerik": "Kiraya veren, kira süresi içinde yapılması zorunlu olan esaslı onarımları, kiracı tarafından bildirilir bildirilmez, gideri kendisine ait olmak üzere yapmakla yükümlüdür. E. Kiracının borçları I. Kira bedelini ve yan giderleri ödeme borcu 1. Genel olarak"
+    },
+    {
+        "madde_no": "362",
+        "baslik": "TBK Madde 362",
+        "icerik": "Kiracı, sözleşmede aksine bir hüküm veya yerel âdet olmadıkça, kira bedelini ve yan giderleri her kira yılının ve en geç kira süresinin sonunda ödemekle yükümlüdür. Kiracı, kiralananın tesliminden sonra vadesi gelmiş kira bedelini veya yan giderleri ödemezse kiraya veren, kiracıya yazılı olarak en az altmış günlük bir önel verip, bu önel içinde ödememesi durumunda sözleşmeyi feshedeceğini bildirebilir. 2. Olağanüstü durumlarda kira bedelinden indirim"
+    },
+    {
+        "madde_no": "363",
+        "baslik": "TBK Madde 363",
+        "icerik": "Tarımsal bir taşınmazın her zamanki verimi, olağanüstü felaket veya doğal olaylar yüzünden önemli ölçüde azalırsa kiracı, kira bedelinden orantılı bir miktarın indirilmesini isteyebilir. Bu haktan başlangıçta feragat, ancak kira bedelinin belirlenmesi sırasında bu gibi durumların meydana gelmesi olasılığı göz önünde tutulmuş veya doğan zarar bir sigorta ile karşılanmış ise, geçerli olur. II. Kiralananı kullanma ve işletme borcu"
+    },
+    {
+        "madde_no": "364",
+        "baslik": "TBK Madde 364",
+        "icerik": "Kiracı, kiralananı özgülendiği amaca uygun ve iyi bir biçimde işletmekle, özellikle ürün vermeye elverişli bir durumda bulundurmakla yükümlüdür. Kiracı, kiraya verenin izni olmaksızın, kiralananın işletme usulünü, kira süresinin bitiminden sonra etkisi görülebilecek biçimde değiştiremez. III. Bakım borcu"
+    },
+    {
+        "madde_no": "365",
+        "baslik": "TBK Madde 365",
+        "icerik": "Kiracı, kiralananın bakımını gereği gibi sağlamakla yükümlüdür. Kiracı, yerel âdete uygun olarak küçük onarımları yapmak, bozulan veya kullanılmayla yok olan düşük değerli araç ve gereçlerin yerine yenilerini koymak zorundadır. F. Alt kira ve kullanım hakkını devir yasağı"
+    },
+    {
+        "madde_no": "366",
+        "baslik": "TBK Madde 366",
+        "icerik": "Kiracı, kiraya verenin rızası olmaksızın kiralananı başkasına kiraya veremeyeceği gibi, kullanım ve işletme hakkını da başkasına devredemez. Ancak kiracı, kiralananda bulunan bazı yerleri, kiraya veren için zarar doğuracak bir değişikliği gerektirmemek koşuluyla kiraya verebilir. Kiracının, başkasıyla yaptığı bu kira sözleşmelerine, alt kiraya ilişkin kurallar, kıyas yoluyla uygulanır. G. Sözleşmenin sona ermesi I. Sona erme sebepleri 1. Sürenin geçmesi"
+    },
+    {
+        "madde_no": "367",
+        "baslik": "TBK Madde 367",
+        "icerik": "Belirli süreli kira sözleşmesi, sürenin bitiminde kendiliğinden sona erer. Ancak, tarafların örtülü olarak sözleşmeyi sürdürmeleri hâlinde, aksi kararlaştırılmadıkça, kira sözleşmesi birer yıl için yenilenmiş sayılır. Yenilenen kira sözleşmesi yasal bildirim süresine uyularak, her kira yılının sonu için feshedilebilir. 2. Fesih bildirimi"
+    },
+    {
+        "madde_no": "368",
+        "baslik": "TBK Madde 368",
+        "icerik": "Belirsiz süreli sözleşmede, fesih bildirim süresi sözleşme veya yerel âdetle belirlenmemişse, en az altı aylık bir bildirim süresine uyulmak koşuluyla, taraflardan her biri sözleşmeyi feshedebilir. Aksine bir anlaşma yoksa, tarımsal taşınmazlara ilişkin ürün kiralarında yerel âdetçe uygulanan bahar veya güz mevsimleri için; diğer ürün kiralarında ise herhangi bir zaman için fesih bildirimi yapılabilir. 3. Olağanüstü fesih a. Önemli sebepler"
+    },
+    {
+        "madde_no": "369",
+        "baslik": "TBK Madde 369",
+        "icerik": "Taraflardan biri, kira ilişkisinin devamını kendisi için çekilmez hâle getiren önemli sebeplerin varlığı durumunda, sözleşmeyi yasal fesih bildirim süresine uyarak her zaman feshedebilir. Hâkim, durum ve koşulları göz önünde tutarak, olağanüstü fesih bildiriminin parasal sonuçlarını karara bağlar. b. Kiracının iflası"
+    },
+    {
+        "madde_no": "370",
+        "baslik": "TBK Madde 370",
+        "icerik": "Kiracının iflası hâlinde sözleşme, iflasın açıldığı anda, kendiliğinden sona erer. Ancak, kiraya veren, işlemekte olan kira ve tutanağa geçirilen eşya için yeterli güvence verildiği takdirde, sözleşmeyi kira yılının sonuna kadar sürdürmekle yükümlüdür. c. Kiracının ölümü"
+    },
+    {
+        "madde_no": "371",
+        "baslik": "TBK Madde 371",
+        "icerik": "Kiracının ölümü hâlinde, onun mirasçıları ve kiraya veren, altı aylık yasal fesih bildirim sürelerine uymak koşuluyla, sözleşmeyi feshedebilirler. II. Sona ermenin sonuçları 1. Geri verme"
+    },
+    {
+        "madde_no": "372",
+        "baslik": "TBK Madde 372",
+        "icerik": "Kira süresinin bitiminde kiracı, kiralananı, tutanağa geçirilmiş olan bütün eşyalarla birlikte ve bulundukları durumda geri vermekle yükümlüdür. Kiracı, iyi işletilme durumunda kaçınılabilecek olan değer eksiklikleri için tazminat ödemekle yükümlüdür. Kiracı, kiralanana göstermekle yükümlü olduğu özen çerçevesinde meydana gelen değer artışları için tazminat isteyemez. 2. Tutanağa geçirilmiş eşya"
+    },
+    {
+        "madde_no": "373",
+        "baslik": "TBK Madde 373",
+        "icerik": "Kiralanan teslim edilirken tutanağa geçirilmiş olan eşyalara değer biçilmişse kiracı, kira sözleşmesi sona erince, bunları özdeş tür ve değerde olmak üzere geri vermekle veya değer eksikliklerini gidermekle yükümlüdür. Kiracı, kiraya verenin kusurunu ya da mücbir sebebin varlığını ispat ederek geri vermekten veya tazminat ödemekten kurtulabilir. Kiracı, kendisinin yaptığı masraflardan veya emeğinden doğan değer artışı için tazminat isteyebilir. 3. Ürün ve yetişme giderleri"
+    },
+    {
+        "madde_no": "374",
+        "baslik": "TBK Madde 374",
+        "icerik": "Tarımsal bir taşınmazın kiracısı, kira sözleşmesinin sona erdiği anda henüz devşirilmemiş ürünler üzerinde bir hak ileri süremez. Ancak kiracı, ürünün yetişmesi için yapmış olduğu tarım giderlerinin hâkim tarafından belirlenecek miktarını, kiraya verenden tazminat olarak isteyebilir ve bu tazminat işlemiş kiralardan indirilir. 4. Saman, gübre ve benzerleri"
+    },
+    {
+        "madde_no": "375",
+        "baslik": "TBK Madde 375",
+        "icerik": "Kiralananı geri veren kiracı, düzenli bir işletmenin gerektirdiği oranda, son yılın samanlarını, hayvan yataklarını, kuru ot ve gübrelerini kiralananda bırakmakla yükümlüdür. Kiracı, almış olduğundan daha fazlasını bırakıyorsa, bıraktığı fazlalık için tazminat isteme hakkına sahiptir; aldığından daha az bırakıyorsa, eksikleri tamamlamak veya değer eksikliğini gidermekle yükümlüdür. H. Hayvan kirası I. Konusu"
+    },
+    {
+        "madde_no": "376",
+        "baslik": "TBK Madde 376",
+        "icerik": "Tarımsal bir taşınmazın kirasıyla bağlantılı olmayan geviş getirici hayvanların kirasında, aksine anlaşma veya yerel âdet yoksa, kiralanan hayvanların kira süresi içindeki bütün ürünleri kiracının olur. Kiracı, kiralanan hayvanları beslemek, onlara iyi bakmak ve kiraya verene para veya hayvanlardan elde ettiği ürünün belli bir payını ödemekle yükümlüdür. II. Sorumluluk"
+    },
+    {
+        "madde_no": "377",
+        "baslik": "TBK Madde 377",
+        "icerik": "Aksine anlaşma veya yerel âdet yoksa kiracı, kiralanan hayvanların uğradığı bir zarardan, bu zararın, korumada dikkat ve özen gösterildiği hâlde meydana gelmiş olduğunu ispat etmedikçe sorumludur. Kiracı, kendi kusuruyla sebebiyet vermediği olağanüstü koruma giderleri için kiraya verenden tazminat isteyebilir. Kiracı, önemli kazaları ya da hastalıkları gecikmeksizin kiraya verene bildirmekle yükümlüdür. III. Fesih"
+    },
+    {
+        "madde_no": "378",
+        "baslik": "TBK Madde 378",
+        "icerik": "Aksine anlaşma veya yerel âdet yoksa, belirsiz bir süre için yapılan sözleşmeyi, taraflardan her biri, dilediği zaman feshedebilir. Ancak, fesih dürüstlük kurallarına aykırı ve uygun olmayan bir zamanda yapılamaz. BEŞİNCİ BÖLÜM Ödünç Sözleşmeleri BİRİNCİ AYIRIM Kullanım Ödüncü A. Tanımı"
+    }
+]
