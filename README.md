@@ -16,7 +16,6 @@ Bu proje; Türk Borçlar Kanunu ve Yargıtay emsal kararlarını analiz eden, **
 <a href="(https://youtu.be/2xZrlFTttF4)">
   <img src="https://img.youtube.com/vi/VİDEO_ID_KODU/0.jpg" alt="Proje Demosunu İzle" style="width:100%; max-width:800px;">
 </a>
-<p align="center">Videoyu izlemek için görsele tıklayın.</p>
 ## ⚙️ Kurulum
 1. Repoyu klonlayın: `git clone https://github.com/yusufsakirr1/kira_hukuku_chatbot-llm_rag.git`
 2. Gerekli kütüphaneleri yükleyin: `pip install -r requirements.txt`
