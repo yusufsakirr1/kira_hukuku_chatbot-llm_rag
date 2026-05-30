@@ -14,6 +14,7 @@ Bu proje; Türk Borçlar Kanunu ve Yargıtay emsal kararlarını analiz eden, **
 - **Arayüz:** Streamlit
 
 ## 🚀 Proje Demosu
+<video src="assets/demo_video.mp4" controls="controls" style="max-width: 100%;"></video>
 Sistemin kira hukuku sorularına nasıl kaynak göstererek yanıt verdiğini aşağıdan izleyebilirsiniz:
 [Proje Videosunu İzle](assets/demo_video.mp4)
 
