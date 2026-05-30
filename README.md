@@ -3,8 +3,7 @@
 Bu proje; Türk Borçlar Kanunu ve Yargıtay emsal kararlarını analiz eden, **RAG (Retrieval-Augmented Generation)** mimarisiyle çalışan, yapay zeka destekli bir hukuk teknolojisi çözümüdür.
 
 ## 🏗️ Sistem Mimarisi
-<img src="/assets/mimari.png" alt="Sistem Mimarisi" width="100%">![Sistem Mimarisi](assets/mimari.png)
-
+<img src="assets/mimari.jpeg" alt="Sistem Mimarisi" style="width:100%; max-width:800px;">
 *Sistemin RAG pipeline'ı, vektör veritabanı sorgulama ve LLM yanıt üretim süreçlerini içermektedir.*
 
 ## 🛠️ Teknik Yığın (Tech Stack)
@@ -14,7 +13,8 @@ Bu proje; Türk Borçlar Kanunu ve Yargıtay emsal kararlarını analiz eden, **
 - **Arayüz:** Streamlit
 
 ## 🚀 Proje Demosu
-<video src="/assets/demo_video.mp4" controls="controls" style="max-width: 100%;"></video>Sistemin kira hukuku sorularına nasıl kaynak göstererek yanıt verdiğini aşağıdan izleyebilirsiniz:
+Sistemin kira hukuku sorularına nasıl kaynak göstererek yanıt verdiğini aşağıdan izleyebilirsiniz:
+<video src="assets/demo_video.mp4" controls style="width:100%; max-width:800px;"></video>
 [Proje Videosunu İzle](assets/demo_video.mp4)
 
 ## ⚙️ Kurulum
