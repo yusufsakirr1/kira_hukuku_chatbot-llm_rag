@@ -15,11 +15,9 @@ Bu proje; Türk Borçlar Kanunu ve Yargıtay emsal kararlarını analiz eden, **
 ## 🚀 Proje Demosu
 ## 🚀 Proje Demosu
 <p>Sistemin nasıl çalıştığını görmek için aşağıdaki videoya tıklayın:</p>
-<a href="assets/demo_video.mp4">
-  <img src="https://img.icons8.com/color/96/000000/play-button-circled.png" alt="Videoyu Oynat">
-</a>
-<br>
-<a href="assets/demo_video.mp4">Videonun tamamını buradan izleyebilirsiniz.</a>
+<video controls width="100%">
+  <source src="assets/demo_video.mp4" type="video/mp4">
+</video>
 
 ## ⚙️ Kurulum
 1. Repoyu klonlayın: `git clone https://github.com/yusufsakirr1/kira_hukuku_chatbot-llm_rag.git`
